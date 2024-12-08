@@ -13,3 +13,14 @@ We made a website using python flask where we going to implement an online tech 
 -	Log-In option for user and admin
 -	Database Management
 
+
+### Tools & Technology used:
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- Python (Flask)
+- MongoDB(Database)
+
+  
+
